@@ -15,12 +15,14 @@
   <h2>Distrito Federal, México.</h2>
 
   <h3>Organizado por: </h3>
-<li>Mozilla Foundation</li>
-<li>Instituto de Investigaciones Antropológicas</li>
-<li>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</li>
-<li>Indiana University International Gateway México</li>
-<li>Mozilla México</li>
-<li>Comunidad Elotl</li>
+<ul>
+<li><a href="https://foundation.mozilla.org">Mozilla Foundation</a></li>
+<li><a href="https://www.iia.unam.mx/">Instituto de Investigaciones Antropológicas</a></li>
+<li><a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</a></li>
+<li><a href="https://global.iu.edu/presence/gateways/mexico/index.html">Indiana University International Gateway México</a></li>
+<li><a href="https://mozilla-mexico.org/">Mozilla México</a></li>
+<li><a href="https://elotl.mx/">Comunidad Elotl</a></li>
+</ul>
 
   <p>
   </p>
@@ -42,14 +44,14 @@ Habrán dos categorías y en cada categoría dos posibles temas. La primera cate
 
   <h4>Ejes de evaluación</h4>
 <ul>
-<li>Calidad técnica (1-5):</li>
-<li>Colaboración (1-5): ¿Ha sido el proyecto desarrollado en colaboración con una comunidad de hablantes o usuarios? ¿Resuelve alguna necesidad actual de esa comunidad?</li>
-<li>Inovación (1-5): </li>
-<li>Rendimiento (1-5):</li>
+<li>Calidad técnica (1-5)</li>
+<li>Colaboración (1-5) <!--¿Ha sido el proyecto desarrollado en colaboración con una comunidad de hablantes o usuarios? ¿Resuelve alguna necesidad actual de esa comunidad?--></li>
+<li>Inovación (1-5) </li>
+<li>Rendimiento (1-5)</li>
 </ul>
    <h4>Comité de evaluación</h4>
 <p>
-El comité de evaluación consiste de los siguientes evaluadores:  Dra. Hilaria Cruz, Lic. Huber Benítez Meili, Lic. Tajëëw Díaz Robles.
+El comité de evaluación consiste en los siguientes evaluadores:  Dra. Hilaria Cruz, Lic. Huber Benítez Meili, Lic. Tajëëw Díaz Robles.
 </p>
 
   <h3>Premios:</h3>
