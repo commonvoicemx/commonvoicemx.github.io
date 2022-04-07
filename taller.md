@@ -36,7 +36,7 @@ Las tecnologías del habla, como los asistentes virtuales, el reconocimiento y s
 </ul>
 <li>Lic. Huber Benítez Meili: <i>Common Voice y el guaraní: Experiencias y el futuro</i></li>
 <ul>
-<li>Huber Benítez Meili, Licenciado en Lengua Guaraní y Alemana. Socio fundador de Avañe’ẽ Kuaareka Aty (terminología, traducción e interpretación Guaraní) y de la Asociación de Profesores de Alemán de Paraguay. Fue coordinador del Departamento de Guaraní y Alemán en el Instituto Choice. Fue traductor de programas de Discovery en Guaraní. Fue Docente de la cátedra Guarani Ñe’ẽ en la Universidad San Ignacio de Loyola y en el colegio del mismo nombre. Participó en la traducción de Mozilla Firefox al Guaraní y colabora actualmente con Common Voice – Guaraní. En el presente es estudiante de maestría en Lingüística Evolutiva en la Universidad de Zúrich.</li>
+<li>Licenciado en Lengua Guaraní y Alemana. Socio fundador de Avañe’ẽ Kuaareka Aty (terminología, traducción e interpretación Guaraní) y de la Asociación de Profesores de Alemán de Paraguay. Fue coordinador del Departamento de Guaraní y Alemán en el Instituto Choice. Fue traductor de programas de Discovery en Guaraní. Fue Docente de la cátedra Guarani Ñe’ẽ en la Universidad San Ignacio de Loyola y en el colegio del mismo nombre. Participó en la traducción de Mozilla Firefox al Guaraní y colabora actualmente con Common Voice – Guaraní. En el presente es estudiante de maestría en Lingüística Evolutiva en la Universidad de Zúrich.</li>
 </ul>
 <li>Lic. Tajëëw Diaz Robles:  <i>¡Alexa, amënyï! Algunas reflexiones sobre la inclusión de lenguas indígenas en las tecnologías del habla.</i></li>
 <ul>
