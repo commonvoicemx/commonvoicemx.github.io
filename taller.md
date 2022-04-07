@@ -60,5 +60,5 @@ El taller está abierto a un público amplio, incluyendo hablantes y activistas 
 </p>
 <h4>Inscripción</h4>
 <p>
-<a href="https://forms.gle/bRBuNGGb65xwXqBR7">Formulario de inscripción</a>
+<!--<a href="https://forms.gle/bRBuNGGb65xwXqBR7">Formulario de inscripción</a>-->
 </p>
