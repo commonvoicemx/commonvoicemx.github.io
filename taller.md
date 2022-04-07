@@ -8,14 +8,13 @@ Las tecnologías del habla, como los asistentes virtuales, el reconocimiento y s
 
 <h4>Organizadores</h4>
 <ul>
-<li>Mozilla Foundation</li>
-<li>Instituto de Investigaciones Antropológicas</li>
-<li>Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</li>
-<li>Indiana University International Gateway México</li>
-<li>Mozilla México</li>
-<li>Comunidad Elotl</li>
+<li><a href="https://foundation.mozilla.org">Mozilla Foundation</a></li>
+<li><a href="https://www.iia.unam.mx/">Instituto de Investigaciones Antropológicas</a></li>
+<li><a href="https://www.iimas.unam.mx/">Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas</a></li>
+<li><a href="https://global.iu.edu/presence/gateways/mexico/index.html">Indiana University International Gateway México</a></li>
+<li><a href="https://mozilla-mexico.org/">Mozilla México</a></li>
+<li><a href="https://elotl.mx/">Comunidad Elotl</a></li>
 </ul>
-
 
 <h4>Programa </h4>
 <ul>
