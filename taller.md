@@ -31,12 +31,18 @@ Las tecnologías del habla, como los asistentes virtuales, el reconocimiento y s
 
 <h4>Ponencias</h4>
 <ul>
-<li>Dra. Hilaria Cruz: Reconocimiento de voz, revitalización lingüística y las lenguas indígenas
-	<ul><li>Hablante de chatino de San Juan Quiahije y lingüista en el Departamento de Humanidades Comparativas de la Universidad de Louisville. Especialista en documentación y revitalización lingüística trabaja con métodos computacionales de documentación lingüística y en la creación de libros para niños.</li></li></ul>
-<li>Lic. Huber Benítez Meili: Common Voice y el guaraní: Experiencias y el futuro</li>
-	<ul><li>Huber Benítez Meili, Licenciado en Lengua Guaraní y Alemana. Socio fundador de Avañe’ẽ Kuaareka Aty (terminología, traducción e interpretación Guaraní) y de la Asociación de Profesores de Alemán de Paraguay. Fue coordinador del Departamento de Guaraní y Alemán en el Instituto Choice. Fue traductor de programas de Discovery en Guaraní. Fue Docente de la cátedra Guarani Ñe’ẽ en la Universidad San Ignacio de Loyola y en el colegio del mismo nombre. Participó en la traducción de Mozilla Firefox al Guaraní y colabora actualmente con Common Voice – Guaraní. En el presente es estudiante de maestría en Lingüística Evolutiva en la Universidad de Zúrich.</li></li></ul>
-<li>Lic. Tajëëw Diaz Robles:  TBD</li>
-	<ul><li>Mixe de Tlahuitoltepec, forma parte del Colmix (Colectivo Mixe) Actualmente coordina el Proyecto Endless Oaxaca Multilingüe de la Fundación Alfredo Harp Helú Oaxaca y forma parte de la Red de Activistas Digitales de Lenguas Indígenas.</li></li></ul>
+<li>Dra. Hilaria Cruz: <i>Reconocimiento de voz, revitalización lingüística y las lenguas indígenas</i></li>
+<ul>
+<li>Hablante de chatino de San Juan Quiahije y lingüista en el Departamento de Humanidades Comparativas de la Universidad de Louisville. Especialista en documentación y revitalización lingüística trabaja con métodos computacionales de documentación lingüística y en la creación de libros para niños.</li>
+</ul>
+<li>Lic. Huber Benítez Meili: <i>Common Voice y el guaraní: Experiencias y el futuro</i></li>
+<ul>
+<li>Huber Benítez Meili, Licenciado en Lengua Guaraní y Alemana. Socio fundador de Avañe’ẽ Kuaareka Aty (terminología, traducción e interpretación Guaraní) y de la Asociación de Profesores de Alemán de Paraguay. Fue coordinador del Departamento de Guaraní y Alemán en el Instituto Choice. Fue traductor de programas de Discovery en Guaraní. Fue Docente de la cátedra Guarani Ñe’ẽ en la Universidad San Ignacio de Loyola y en el colegio del mismo nombre. Participó en la traducción de Mozilla Firefox al Guaraní y colabora actualmente con Common Voice – Guaraní. En el presente es estudiante de maestría en Lingüística Evolutiva en la Universidad de Zúrich.</li>
+</ul>
+<li>Lic. Tajëëw Diaz Robles:  <i>¡Alexa, amënyï! Algunas reflexiones sobre la inclusión de lenguas indígenas en las tecnologías del habla.</i></li>
+<ul>
+<li>Mixe de Tlahuitoltepec, forma parte del Colmix (Colectivo Mixe) Actualmente coordina el Proyecto Endless Oaxaca Multilingüe de la Fundación Alfredo Harp Helú Oaxaca y forma parte de la Red de Activistas Digitales de Lenguas Indígenas.</li>
+</ul>
 </ul>
 
 <h4>Mesa redonda</h4>
