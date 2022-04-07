@@ -1,0 +1,26 @@
+p {
+ text-align: justify;
+}
+
+body {
+	font-family: Zilla Slab, Sans;
+ margin: auto;
+ width: 75%;
+ position: relative;
+}
+
+th {
+ font-weight: bold ;
+}
+
+#main {
+  padding: 5pt;
+}
+
+td {
+  padding-left: 4pt;
+  padding-right: 10pt;
+  padding-bottom: 2pt;
+  padding-top: 2pt;
+}
+
