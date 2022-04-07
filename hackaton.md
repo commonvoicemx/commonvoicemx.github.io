@@ -1,4 +1,4 @@
-<html><head>
+<!--<html><head>
 <title>Hackatón de tecnologías del habla</title>
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
 <link rel="stylesheet" type="text/css" href="index.css">
@@ -6,8 +6,11 @@
 <body style="padding-left:10%;">
 <div>
 <img src="img/mars_aztec3.png" alt="commonvoicemx" height="60%" width="60%">
-</div>
+</div>-->
+
 <div id="main">
+<img src="img/centro-de-ciencias-de-la-complejidad-unam.jpg"/>
+
   <h1>Hackatón sobre tecnologías del habla</h1>
   
   <h2>4-6 de mayo del 2021</h2>
