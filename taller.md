@@ -1,3 +1,5 @@
+<img src="img/centro-de-ciencias-de-la-complejidad-unam.jpg"/>
+
 <h1>Taller sobre las tecnologías del habla y las lenguas indígenas de las Américas</h1>
 <h2>6 de mayo, 2022</h2>
 <h3>Centro de Ciencias de la Complejidad,
