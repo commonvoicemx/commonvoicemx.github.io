@@ -3,7 +3,7 @@ p {
 }
 
 body {
-	font-family: Zilla Slab, Sans;
+	font-family: Zilla Slab, Sans, Helvetica;
  margin: auto;
  width: 75%;
  position: relative;
@@ -32,4 +32,8 @@ border-bottom: 1px solid #000; }
 
 tr.border_bottom td {
   border-bottom: 2px solid black;
+}
+
+.c1 {
+	font-weight: bold;
 }
